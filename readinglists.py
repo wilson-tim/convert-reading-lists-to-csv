@@ -21,12 +21,13 @@ def extract(rootdir, csvfile):
 	try:
 		for dirpath, dirnames, filenames in os.walk(rootdir):
 			for filename in filenames:
-				f = open(os.path.join(dirpath, filename), "r", errors='ignore')
+				f = open(os.path.join(dirpath, filename), "r", encoding="utf-8-sig", errors="ignore")
 				for line in f:
 					regex = re.compile(r'(January|February|March|April|May|June|July|August|September|October|November|December)\s[0-9]{4}')
 					match = regex.search(line)
 					if match:
 						month = line.rstrip().lstrip()
+						print(month)
 						record = []
 						recordstr = ""
 					elif line == "\n" or line == "\r\n":
