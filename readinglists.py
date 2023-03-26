@@ -32,7 +32,8 @@ def extract(rootdir, csvfile):
 					elif line == "\n" or line == "\r\n":
 						if len(record) > 1:
 							record.insert(0, month)
-							print(record)
+							if len(record) < 6:
+								record += [''] * (6 - len(record))
 							write_to_csv(csvfile, record)
 						record = []
 						recordstr = ""
