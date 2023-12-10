@@ -12,6 +12,12 @@ Influx Press
 epub
 9781910312636
 
+Creating Software With Modern Diagramming Techniques: Build Better Software With Mermaid
+Ashley Peacock
+Pragmatic Bookshelf
+epub
+9781680509830
+
 February 2023
 
 Life Two: How to get to and enjoy what used to be called retirement
@@ -48,19 +54,241 @@ pdf
 
 April 2023
 
+Fuccboi
+Sean Thor Conroe
+Little, Brown and Company
+epub
+9780316395014
+
+How To Fund The Life You Want
+Robin Powell and Jonathan Hollow
+Bloomsbury Business
+paperback
+9781399404600
+
+New Animal
+Ella Baxter
+Allen & Unwin
+epub
+9781953387127
+
 May 2023
+
+Effective Remote Work
+Dr. James Stanier
+Pragmatic Bookshelf
+epub
+9781680509229
+
+Love Marriage
+Monica Ali
+Virago
+epub
+9780349015491
+
+Young Mungo
+Douglas Stuart
+Grove Atlantic
+epub
+9780802159557
+
+Companion Piece
+Ali Smith
+Penguin
+epub
+9780735243187
+
+Lapvona
+Ottessa Moshfegh
+Penguin
+epub
+9780593300275
 
 June 2023
 
+What They Don't Teach You About Money
+Claer Barrett
+Penguin
+paperback
+9781529146332
+
+Blue Highways
+William Least Heat-Moon
+Little, Brown and Company
+epub
+9780316218542
+
+Brick Lane
+Monica Ali
+Transworld
+epub
+9780552774451
+
+The Dark Between The Trees
+Fiona Barnett
+Solaris
+epub
+9781786187154
+
 July 2023
 
-August 2023
+Faith, Hope and Carnage
+Nick Cave & Seán O'Hagan
+Farrar, Straus and Giroux
+epub
+9780374607388
+
+The Madness of Grief
+The Reverend Richard Coles
+Weidenfeld & Nicolson
+epub
+9781474619646
+
+August 2023 
+
+Four Thousand Weeks
+Oliver Burkeman
+epub
+Random House
+9781473545557
+
+The Children 
+Charlotte Wood
+epub 
+Allen & Unwin
+9781741756043
+
+The Submerged Cathedral 
+Charlotte Wood 
+epub 
+Vintage Books
+9781742747941
+
+Getting Better 
+Michael Rosen
+epub 
+Penguin 
+9781473599383
+
+Bruce Lee
+Matthew Polly
+epub
+Simon & Schuster
+9781471175718
+
+Smart & Gets Things Done
+Joel Spolsky
+hardback
+Apress
+9781590598382
+
+The Practice Of Not Thinking 
+Ryunosuke Koike 
+epub
+Penguin
+9780141994628
 
 September 2023
 
+Big Swiss
+Jen Beagin
+epub
+Simon & Schuster
+9781982153106
+
+What Every Kid Wished Their Parents Knew
+Rob Parsons & Lloyd Parsons
+hardback
+Care For The Family
+9780995559684
+
+Penance
+Eliza Clark
+epub
+Faber & Faber
+9780571371792
+
 October 2023
+
+The Art of the Straight Line
+Lou Reed
+hardback
+Faber & Faber
+9780571383306
+
+We Don't Go Back: A Watcher's Guide to Folk Horror
+Howard David Ingham
+epub
+Room 207 Press
+9781722748814
+
+The Salt Path
+Raynor Winn
+epub
+Penguin
+9780525505860
+
+Git Prodigy
+Ebenezer Don
+pdf
+Leanpub
+n/a
+
+Git Essentials
+François Dupire
+pdf
+StackAbuse
+n/a
+
+The Wolves of Eternity
+Karl Ove Knausgaard
+epub
+Penguin
+9780593490846
 
 November 2023
 
+Let The Right One In
+John Ajvide Lindqvist
+epub
+Quercus
+9781847242969
+
+Painless Git
+Nate Dickson
+pdf
+Leanpub
+n/a
+
+Record of a Night Too Brief
+Hiromi Kawakami
+epub
+Pushkin Press
+9781782272724
+
+Strange Weather In Tokyo
+Hiromi Kawakami
+epub
+Counterpoint
+9781640090163
+
+Parade
+Hiromi Kawakami
+epub
+Soft Skull
+9781593765804
+
+The Ten Loves Of Nishino
+Hiromi Kawakami
+epub
+Europa Editions
+9781609455323
+
 December 2023
+
+The Nakano Thrift shop
+Hiromi Kawakami
+epub
+Europa Editions
+9781609454005
 
