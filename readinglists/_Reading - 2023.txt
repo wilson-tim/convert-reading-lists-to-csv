@@ -144,7 +144,7 @@ Weidenfeld & Nicolson
 epub
 9781474619646
 
-August 2023 
+August 2023
 
 Four Thousand Weeks
 Oliver Burkeman
@@ -152,22 +152,22 @@ epub
 Random House
 9781473545557
 
-The Children 
+The Children
 Charlotte Wood
-epub 
+epub
 Allen & Unwin
 9781741756043
 
-The Submerged Cathedral 
-Charlotte Wood 
-epub 
+The Submerged Cathedral
+Charlotte Wood
+epub
 Vintage Books
 9781742747941
 
-Getting Better 
+Getting Better
 Michael Rosen
-epub 
-Penguin 
+epub
+Penguin
 9781473599383
 
 Bruce Lee
@@ -182,8 +182,8 @@ hardback
 Apress
 9781590598382
 
-The Practice Of Not Thinking 
-Ryunosuke Koike 
+The Practice Of Not Thinking
+Ryunosuke Koike
 epub
 Penguin
 9780141994628

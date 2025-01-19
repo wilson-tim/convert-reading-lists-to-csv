@@ -1,7 +1,7 @@
 ﻿January 2014
 
 Ubuntu Linux Secrets
-Richard Blum 
+Richard Blum
 Wiley
 
 HTML5 & CSS3: Visual QuickStart Guide (Visual QuickStart Guides)
