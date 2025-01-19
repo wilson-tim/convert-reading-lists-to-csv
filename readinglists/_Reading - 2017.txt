@@ -14,7 +14,7 @@ Black Swan
 paperback
 0552991260
 
-March
+March 2017
 
 Us
 David Nicholas
@@ -34,7 +34,7 @@ Picador
 paperback
 9780330445672
 
-April
+April 2017
 
 Writing Home
 Alan Bennett
@@ -60,7 +60,7 @@ Vintage Books
 paperback
 9780099461821
 
-May
+May 2017
 
 Untold Stories
 Alan Bennett
@@ -74,7 +74,7 @@ Vintage Books
 paperback
 9780307390691
 
-June
+June 2017
 
 A Blaze of Autumn Sunshine
 Tony Benn
@@ -94,7 +94,7 @@ Hodder & Stoughton
 hardback
 9781444745665
 
-July
+July 2017
 
 Left To Their Own Devices?
 Katharine Hill
@@ -102,7 +102,7 @@ Muddy Pearl
 paperback
 9781910012437
 
-August
+August 2017
 
 Guidebook to Zen and the Art of Motorcycle Maintenance
 Ron DiSanto and Tom Steele
@@ -116,7 +116,7 @@ The Pragmatic Bookshelf
 epub
 9781680502336
 
-September
+September 2017
 
 Sons and Lovers
 D H Lawrence
@@ -124,7 +124,7 @@ Penguin
 paperback
 0140431543
 
-October
+October 2017
 
 Seeing Things
 Oliver Postgate
@@ -132,7 +132,7 @@ Canongate
 paperback
 9781847678416
 
-November
+November 2017
 
 Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement
 Luc Perkins with Eric Redmond and Jim R. Wilson
@@ -146,7 +146,7 @@ Penguin
 paperback
 0140090088
 
-December
+December 2017
 
 The Sparsholt Affair
 Alan Hollinghurst
